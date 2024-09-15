@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hello world!
+=======
+hululu
+this is some random text 
+delulu
+uehtonauhneoaueoa
+
+ahtoinaehietoahueatieotnahieoa
+>>>>>>> 203c476a1295852d435774abe847924730d13341
